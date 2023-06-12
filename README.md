@@ -2,7 +2,7 @@
 - 👀 I’m interested in .coding..
 - 🌱 I’m currently learning .C#.,.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..Samana.zia6@gfmail.com.
+- 📫 How to reach me ..Samana.zia6@gmail.com.
 
 <!---
 SamanaHamkar/SamanaHamkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
